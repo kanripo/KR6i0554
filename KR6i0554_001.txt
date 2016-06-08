@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:32.531475
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:14
 #+TITLE: 圓覺經佚文
 #+PROPERTY: CBETA_ID X01n0001
 #+PROPERTY: ID KR6i0554
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 01, No. 001
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0554_X_001-0001a> 
 #+PROPERTY: JUAN 1
-No.1¶
-
- 圓覺經佚文¶
+No. 1¶
+圓覺經佚文¶
 
 余嚮偶獲古宋本大方廣圓覺修多羅了義經下¶
 卷一帖。一紙廿行。行十二字。經末有左藏庫西潘¶
@@ -50,6 +49,5 @@ No.1¶
 　汝等於來世
 <pb:KR6i0554_X_001-0001b>¶
 　護是宣持者
-　無令生退屈
+　無令生退屈」
 #+END_VERSE
-」
