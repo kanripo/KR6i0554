@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:32.531475
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:14
 #+TITLE: 圓覺經佚文
 #+PROPERTY: CBETA_ID X01n0001
 #+PROPERTY: ID KR6i0554
@@ -50,6 +50,5 @@ No.1¶
 　汝等於來世
 <pb:KR6i0554_X_001-0001b>¶
 　護是宣持者
-　無令生退屈
+　無令生退屈」
 #+END_VERSE
-」
